@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/modeltech64_10.5/examples
+vpipe_v3
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 I?d[c]U2c@BY<]gXX?TP53
+IB8o>j`T[=YMELhkVUG:ai0
+Z1 dD:/BeginnerVerilogProjects/LAB6_0603
+w1622724688
+8D:/BeginnerVerilogProjects/LAB6_0603/pipe_v3.v
+FD:/BeginnerVerilogProjects/LAB6_0603/pipe_v3.v
+L0 2
+Z2 OL;L;10.5;63
+Z3 !s108 1622724796.000000
+!s107 D:/BeginnerVerilogProjects/LAB6_0603/pipe_v3.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BeginnerVerilogProjects/LAB6_0603/pipe_v3.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 tCvgOpt 0
+vt_pipe_v3
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 Q8je7cRDXbc<M9omA6U]T1
+IZ5R6^2AZ[33C<C87LfjCM1
+R1
+w1622724728
+8D:/BeginnerVerilogProjects/LAB6_0603/t_pipe_v3.v
+FD:/BeginnerVerilogProjects/LAB6_0603/t_pipe_v3.v
+L0 3
+R2
+R3
+!s107 pipe_v3.v|D:/BeginnerVerilogProjects/LAB6_0603/t_pipe_v3.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/BeginnerVerilogProjects/LAB6_0603/t_pipe_v3.v|
+!i113 0
+R4
+R5
